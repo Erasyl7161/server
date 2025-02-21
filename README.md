@@ -119,6 +119,6 @@ npm run dev
 ## **👨‍💻 Contributing**  
 We welcome contributions! Feel free to submit **issues** or **pull requests**.  
 
-📧 **Contact:** your-email@example.com  
+📧 **Contact:** idk@example.com  
 
 🚀 **Happy coding!**
